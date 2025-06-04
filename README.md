@@ -1,3 +1,3 @@
 # langchain-setup
 
-Langchain framework tutorials. for Langchain, Langgraph, and Langsmith frameworks with Jupyter Notebook. 
+Langchain official tutorials. Featured frameworks include Langchain, Langgraph, and Langsmith frameworks with Jupyter Notebook. 
