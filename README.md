@@ -2,4 +2,4 @@
 
 Langchain official tutorials. Featured frameworks include Langchain for invoking LLMs, Langgraph for agentic architecture, and Langsmith for orchestration. 
 
-Examples are in Jupyter Notebook format. RAG examples to come.
+All examples are in Jupyter Notebook format. RAG examples to come.
