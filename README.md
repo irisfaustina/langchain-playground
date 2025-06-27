@@ -1,6 +1,6 @@
 ## langchain-setup
 
-Files are drafted based on Langchain official agent tutorials to understand the framework. 
+Drafted based on Langchain official tutorials. 
 
 Featured frameworks include Langchain for invoking LLMs, Langgraph for agentic architecture, and Langsmith for orchestration. 
 
