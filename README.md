@@ -10,3 +10,5 @@ Featured frameworks include Langchain for invoking LLMs, Langgraph for agentic a
 4. Extraction: Extract structured data from text and other unstructured media using chat models and few-shot examples.
 
 All examples are in Jupyter Notebook format with notes in the comments. RAG examples to come.
+
+Supplimental to Langchain Academy.
