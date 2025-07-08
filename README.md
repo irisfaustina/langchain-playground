@@ -1,6 +1,6 @@
 ## langchain-setup
 
-This setup is based on Langchain's official tutorials.
+This setup is based on Langchain's official tutorials. 
 
 Featured frameworks include Langchain for invoking LLMs, Langgraph for agentic architecture, and Langsmith for orchestration. 
 
@@ -11,4 +11,4 @@ Featured frameworks include Langchain for invoking LLMs, Langgraph for agentic a
 
 All examples are in Jupyter Notebook format with notes in the comments. RAG examples to come.
 
-Supplimental to Langchain Academy.
+Supplimental to Langchain Academy langgrapgh course.
