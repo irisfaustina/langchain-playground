@@ -1,6 +1,6 @@
 ## langchain-setup
 
-This setup is based on Langchain's official tutorials. 123456
+This setup is based on Langchain's official tutorials.
 
 Featured frameworks include Langchain for invoking LLMs, Langgraph for agentic architecture, and Langsmith for orchestration. 
 
