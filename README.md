@@ -11,4 +11,4 @@ Featured frameworks include Langchain for invoking LLMs, Langgraph for agentic a
 
 All examples are in Jupyter Notebook format with notes in the comments. RAG examples to come.
 
-Supplimental to Langchain Academy's langgrapgh and course.
+Supplimental to Langchain Academy's langgrapgh and abient agent course.
