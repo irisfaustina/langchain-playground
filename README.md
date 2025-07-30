@@ -1,6 +1,4 @@
-## langchain-setup
-
-This setup is complimentary Langchain's official tutorials. 
+## langchain-playground
 
 Featured frameworks include Langchain for invoking LLMs, Langgraph for agentic architecture, and Langsmith for orchestration. 
 
@@ -8,7 +6,3 @@ Featured frameworks include Langchain for invoking LLMs, Langgraph for agentic a
 2. Semantic search: Build a semantic search engine over a PDF with document loaders, embedding models, and vector stores.
 3. Classification: Classify text into categories or labels using chat models with structured outputs.
 4. Extraction: Extract structured data from text and other unstructured media using chat models and few-shot examples.
-
-All examples are in Jupyter Notebook format with notes in the comments. RAG examples to come.
-
-Supplimental to Langchain Academy's langgrapgh and abient agent course.
