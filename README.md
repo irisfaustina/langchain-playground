@@ -7,4 +7,4 @@ Featured frameworks include Langchain for invoking LLMs, Langgraph for agentic a
 3. Classification: Classify text into categories or labels using chat models with structured outputs.
 4. Extraction: Extract structured data from text and other unstructured media using chat models and few-shot examples.
 
-Supplimental material to Langchain Academy.
+Basic material in preparation to HITL and other advanced orchestration.
