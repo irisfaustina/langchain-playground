@@ -1,6 +1,6 @@
 ## langchain-playground
 
-Featured frameworks are Langgraph for agentic architecture and Langsmith for orchestration. 
+Langgraph for agentic architecture and Langsmith for orchestration. 
 
 1. Chat models and prompts: Build a simple LLM application with prompt templates and chat models.
 2. Semantic search: Build a semantic search engine over a PDF with document loaders, embedding models, and vector stores.
